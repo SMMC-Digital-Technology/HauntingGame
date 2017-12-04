@@ -1,6 +1,6 @@
 // world
-var WIDTH = 1280; //window.innerWidth * window.devicePixelRatio;
-var HEIGHT = 720; //window.innerHeight * window.devicePixelRatio;
+var WIDTH = window.innerWidth; // or use 720
+var HEIGHT = HEIGHT = window.innerHeight; // or use 720
 
 var GRID_X = 9;
 var GRID_Y = 8;
